@@ -1,3 +1,9 @@
+### Summary
+
+This code may be cloned via git clone https://github.com/mlanduyt/Bisection_Method/
+
+The main function of this code is executed by the running the 'run' file.
+
 This program is designed to execute the bisection method to determine the root of any continuous function. 
 
 This is accomplished by defining variables under the variables.py file. This will allow for the changing of the function being evaluated 'f' and the tolerance 'tol'. 
