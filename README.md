@@ -20,3 +20,6 @@ Note: this might take a couple of minutes.
 Then, you can launch a VSCode server and choose fenicsx-env a your conda environment.
 
 Some features intended for the example do not work as intended such as the visualization animation. Currently, the results are compared to an analytical solution and the error is reported. 
+
+
+Assignment 4 Part 3 is contained under flow.ipynb
